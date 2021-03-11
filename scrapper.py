@@ -92,6 +92,5 @@ def poll():
             subject = "Company removed"
 
             send_message(message_string,subject)
-#oll()
-send_message("...","signing off")
+poll()
 doNothing=1
